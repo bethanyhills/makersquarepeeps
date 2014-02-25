@@ -1,0 +1,33 @@
+/* CSS declarations go here */
+
+body {
+	background-color: #f7efec !important;
+	max-height: 100%;
+}
+
+.large-12 {
+	background-color: #333;
+	height: 50px;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-family: "Franklin Gothic Medium", Arial, sans-serif;
+}
+
+.container {
+	margin-top: 25px;
+}
+
+.well {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.table {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+}
